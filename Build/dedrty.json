@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "dedrty.data.unityweb",
+"asmCodeUrl": "dedrty.asm.code.unityweb",
+"asmMemoryUrl": "dedrty.asm.memory.unityweb",
+"asmFrameworkUrl": "dedrty.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
